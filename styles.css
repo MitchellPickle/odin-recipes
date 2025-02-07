@@ -1,0 +1,17 @@
+p {
+    font-size: 28px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+ol {
+    font-size: 20px;
+}
+
+h3 {
+    border-color: tomato;
+    border-style: solid;
+    display: inline;
+}
